@@ -1,0 +1,1 @@
+<p>This is welcome page Mr. <%= session.getAttribute("name") %></p>
